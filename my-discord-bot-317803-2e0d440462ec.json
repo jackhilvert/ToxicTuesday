@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-discord-bot-317803",
+  "private_key_id": "2e0d440462ecff3b9974f187bca467561f3619f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDG7Bn32/X90tEP\nEiZTP3uAn92dPLb/sVP6Bo9jY/bLPtlXyG8PDfzSswYcSlF8F/oz8hD2CSloNGef\nN08t6vRT8+UmtNONPz2xsjVTL0scjd1Lu920PCZ4FJQtLuLq7vf+oUasc4imwG3Z\nR41c6vkvwAabuXXbmX1tw2zubY2KrSnMF5R0CT0YIizpSn1By7QlWR+YrBKeJ8wo\nO2U0fKNf6TJ2dBPHZhbeqZbLRW8EsFxj8dFGm17bWYy1SEATa3Tay53t+7DlIu7j\njKRopPSA37TNYJyVpTSwmWxahBldJKowOQ9QtzH5gppjXavNacis1FJvQtF9O43Y\nVk/JzkLDAgMBAAECggEAKhLG/U83TNvZnvPqSkJLl214vKiaViOGDQR1MIL0sJFW\n/AOnRcpiFpiJ6tLnQDV8FJ+W6csPSHyJDDpxE1e2HMmhxpmJgz8EiACW2cTPgLca\nvsl5/4SXaF+F5bachS9NIbyvy4rWNNrPgRzqr+P9F5Xob+h+npds2ZnzgMyIGvPc\nhrS8l5lx5bvnfv2x/nqvoKR3nxxENr7kklH5e5R4SNARkYhXIetg5kL1Wl1/taQ9\nf8DyRVdErcUnfn36JQRpT0MJ4+GieGRxMv7owCquQd7Vr6QrUHTvfPccAzjZYzOA\npE0H/NOLVuwT/5iCuAzwqReDKDZ3ujZYM3GGsqV8AQKBgQDyXWPPoO3FElfjIixq\nFxCkfHq+dTXAYfTFy1Ph/dYfL9dyhXs1ovciAWER3JxUQW3pIEInQXAc5gy8xhiw\n+a7SDMaSr8BdkkEFKSRsEkcEq+VvhJ+cgZEVcMOharBfwDRy7t7/5bh6kLFforWE\nVTOfcXI7VePXbnrrE5WTKGZ0AQKBgQDSHQoMPF4MLEgznh0yqV2GoIwBYzedbdmF\nYn/aWw/TZyBcSKlw9iIFOY3bWWkoAILRv7r3Y2mgCR6nn9F6c/Q9A0tu+VpykAYX\nSBqjkEkBGVY28aQbdvtK09IeL7PfzgeI/avLzsUg/Bq+mGxY/dPgocvtmwtx+p7e\nL3WO+4vmwwKBgQDWnDu1rxrcVtHcHnaVurbR8CgAXmmqYRMN0m4Ev3DLTOHKVsgz\nRorvYalC18bWFNnuhNIPULKl5E+DGSbkDzPua8GqQlZkhQ1uNHA8AjNAv7X6ecWc\nIF8ITUHtvTtQjjHjVAHDNveUEGv/82QoOgnsNdihEf0e1oWhg0X/eNbAAQKBgAa9\nM7NMxF9zlCVDrwAO+pb000jAG+qKuW1TyXIBdbJ8HkeXdQfQfSrZu7kLVxoXWhrM\nIX0JzTt6z2bk810QFwdV8bdve/0srWVVxLT2TcEhROiiO3c+C7VMsfKR6R0GiKtW\nJ4pz6VKzg1AVp3P7QC52Qgou7OEM/sd1kjmxy7ztAoGBANbIAYP/FAHCVmtjUha/\nm53f+912udswGUiEd5RzaykfJSwmIC/f03D75lccEpfdNy4DjC2x298y2FRFhW+5\nT7LP6Z6fcxvuOdYU3w79uvdW+A2SkAImXPdTtqWWdCIfCE7FIqvwQsLAT9J6ZSzF\nwc4r60Hryf9CXWvhebwNRRq2\n-----END PRIVATE KEY-----\n",
+  "client_email": "hunchoindustries@my-discord-bot-317803.iam.gserviceaccount.com",
+  "client_id": "113383270508917181921",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hunchoindustries%40my-discord-bot-317803.iam.gserviceaccount.com"
+}
