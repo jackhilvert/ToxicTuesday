@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 load_dotenv('discord.env')
 TOKEN = os.getenv('DISCORD_TOKEN')
-Interactor = googTest.Sheet()
+Interactor = pogInterface.Sheet()
 
 
 bot = commands.Bot(command_prefix='!')
