@@ -29,24 +29,33 @@ async def get_pogs(ctx):
 #TODO: Require the input be of type @username
 @bot.command(name = 'ww')
 async def update_wholesome(ctx, user_to_vote_for: str):
-    completed = Interactor.updateWholesome(user_to_vote_for)
-    currentString = "Wholesome Wednesday Leaderboad: \n "
-    await ctx.send(currentString)
-    one_word_per_line = Interactor.printWholesome()
-    quote_text = '\n>>> {}'.format(one_word_per_line)
-    await ctx.send(quote_text)
-
+    userArr = list(user_to_vote_for)
+    if (userArr[0] == "<" and userArr[1] == '@' and userArr[-1] == '>'):
+        completed = Interactor.updateWholesome(user_to_vote_for)
+        currentString = "Wholesome Wednesday Leaderboad: \n "
+        await ctx.send(currentString)
+        one_word_per_line = Interactor.printWholesome()
+        quote_text = '\n>>> {}'.format(one_word_per_line)
+        await ctx.send(quote_text)
+    else: 
+        return 
 
 @bot.command(name='tt')
 async def update_toxic_tuesday(ctx, user_to_vote_for : str): 
-    completed = Interactor.updateToxic(user_to_vote_for)
-    currentString = "Toxic Tuesday Leaderboad: \n "
-    await ctx.send(currentString)
-    one_word_per_line = Interactor.printToxic()
-    quote_text = '\n>>> {}'.format(one_word_per_line)
-    await ctx.send(quote_text)
+    userArr = list(user_to_vote_for)
+    if (userArr[0] == "<" and userArr[1] == '@' and userArr[-1] == '>'):
+        completed = Interactor.updateToxic(user_to_vote_for)
+        currentString = "Toxic Tuesday Leaderboad: \n "
+        await ctx.send(currentString)
+        one_word_per_line = Interactor.printToxic()
+        quote_text = '\n>>> {}'.format(one_word_per_line)
+        await ctx.send(quote_text)
+    else: 
+        return 
 
-
+@bot.command(name = "testMember")
+async def testMember(ctx, user_to_vote_for): 
+    return 
 
 
 @bot.event
