@@ -53,9 +53,9 @@ async def update_toxic_tuesday(ctx, user_to_vote_for : str):
     else: 
         return 
 
-@bot.command(name = "testMember")
-async def testMember(ctx, user_to_vote_for): 
-    return 
+# @bot.command(name = "testMember")
+# async def testMember(ctx, user_to_vote_for): 
+#     return 
 
 
 @bot.event
