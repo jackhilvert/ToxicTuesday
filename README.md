@@ -1,7 +1,8 @@
 # ToxicTuesday
-My friends host both "Toxic Tuesday" where we are mean to each other and "Wholesome Wednesday" where we lift each other up.
-This bot allows us to keep a record of who has caused the most pain, and the most uplifting in the server.
-This is accomplished by allowing users to add points for another user by using the command in discord.  
+My friends host both "Toxic Tuesday" where we are mean to each other and "Wholesome Wednesday" where we lift each other up.<br>
+This bot allows us to keep a record of who has caused the most pain, and the most uplifting in the server.<br>
+This is accomplished by allowing users to add points for another user by using the command in discord.  <br>
+Here the vulnerabilities are showcased, this would not be the case if it were to be used in a non-personal scenario. <br>
 
 Utilizes many features: 
 
