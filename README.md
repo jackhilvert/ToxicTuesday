@@ -8,7 +8,7 @@ Utilizes many features:
 - GoogleSheets API
 - Discord Bot API in python
 - created a package that allows for interfacing with the google api, this package is used in the bot.py file as an object
--- This creates a little bit more readability in the code and just allowed me to follow what was going on a bit easier. 
+  - This creates a little bit more readability in the code and just allowed me to follow what was going on a bit easier. 
 ## Bot.py   
 Required the main bot and all commands and functions
 
