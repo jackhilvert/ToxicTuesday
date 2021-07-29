@@ -1,4 +1,8 @@
 # ToxicTuesday
+My friends host both "Toxic Tuesday" where we are mean to each other and "Wholesome Wednesday" where we lift each other up.
+This bot allows us to keep a record of who has caused the most pain, and the most uplifting in the server.
+This is accomplished by allowing users to add points for another user by using the command in discord.  
+
 ## Bot.py   
 Required the main bot and all commands and functions
 
