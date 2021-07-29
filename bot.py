@@ -2,13 +2,13 @@
 import os
 
 import discord
-import pogInterface
+import googleInterface
 from discord.ext import commands
 from dotenv import load_dotenv
 
 load_dotenv('discord.env')
 TOKEN = os.getenv('DISCORD_TOKEN')
-Interactor = pogInterface.Sheet()
+Interactor = googleInterface.Sheet()
 
 
 bot = commands.Bot(command_prefix='!')
